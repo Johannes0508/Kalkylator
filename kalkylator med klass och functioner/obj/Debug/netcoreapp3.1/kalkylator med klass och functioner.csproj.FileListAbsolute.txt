@@ -1,0 +1,13 @@
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\bin\Debug\netcoreapp3.1\kalkylator med klass och functioner.exe
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\bin\Debug\netcoreapp3.1\kalkylator med klass och functioner.deps.json
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\bin\Debug\netcoreapp3.1\kalkylator med klass och functioner.runtimeconfig.json
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\bin\Debug\netcoreapp3.1\kalkylator med klass och functioner.runtimeconfig.dev.json
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\bin\Debug\netcoreapp3.1\kalkylator med klass och functioner.dll
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\bin\Debug\netcoreapp3.1\kalkylator med klass och functioner.pdb
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.csprojAssemblyReference.cache
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.AssemblyInfoInputs.cache
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.AssemblyInfo.cs
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.csproj.CoreCompileInputs.cache
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.dll
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.pdb
+C:\Users\johannes.botvidzong\source\repos\kalkylator med klass och functioner\kalkylator med klass och functioner\obj\Debug\netcoreapp3.1\kalkylator med klass och functioner.genruntimeconfig.cache
